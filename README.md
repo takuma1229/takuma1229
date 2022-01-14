@@ -1,5 +1,9 @@
-### Hi there 👋
-# takuma1229
+#自己紹介
+Keio Univ B3
+文学部で道徳哲学の勉強をしています。
+
+Atcoder茶色（Highest:437 2021/12/11時点）
+
 
 <!--
 **takuma1229/takuma1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
