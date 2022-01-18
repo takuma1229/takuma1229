@@ -2,6 +2,15 @@
 Keio Univ B3  
 文学部で道徳哲学の勉強をしています。
 
+# スキルセット
+### フロントエンド
+- JavaScript
+- TypeScript
+- React（React Native）
+- HTML / CSS
+
+### バックエンド
+
 Atcoder茶色（Highest:437 2021/12/11時点）
 
 
