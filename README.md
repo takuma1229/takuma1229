@@ -44,7 +44,7 @@ Ann株式会社、並びに関連企業にて、エンジニアとして長期�
 
 ## 競技プログラミング
 - AtCoder茶色 
-    - id: takuma1229
+    - id: [takuma1229](https://atcoder.jp/users/takuma1229)
     - Python3で参加
 
 # その他資格等
