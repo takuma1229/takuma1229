@@ -22,6 +22,8 @@
 - Adobe XD
 - Adobe After Effects
 - Git(Github)
+- Docker
+- AWS
 
 # :muscle: 今までの活動
 ## インターン
