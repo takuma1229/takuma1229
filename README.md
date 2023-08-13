@@ -1,12 +1,12 @@
-# ウェルカム to たくまのウェブページ🌟
-
+Sato Takuma
+[Click here to view my profile🌟](https://takuma1229.github.io/)
 ---
 
 > **注意:** このページは現在 **工事中** です！
 
 ---
 
-[**こちらをクリック**して、私の最新のプロジェクトや情報をチェックしてください！](https://takuma1229.github.io/)
+
 
 ---
 
